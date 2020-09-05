@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-11T17:50:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "cell phone detector"
+        },
+        "Owner": "Utkarsh Jaiswal <utkar170102066@iitg.ac.in>",
+        "Size": {
+            "X": 72.06,
+            "Y": 66.03
+        }
+    }
+}

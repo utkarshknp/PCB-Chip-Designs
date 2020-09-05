@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/Utkarsh/Downloads/cell phone detector/cell phone detector.sch at 3/11/2020 11:20 PM
+
+Qty Value   Device  Package  Parts       Description     MF MPN OC_FARNELL OC_NEWARK POPULARITY
+1           ANTENNA PAD-01   ANT1        Antenna                                     11        
+2           LED5MM  LED5MM   BUZZER, LED LED                                         93        
+1           MA03-1  MA03-1   GND         PIN HEADER             unknown    unknown   48        
+1   022uF   LED5MM  LED5MM   C7          LED                                         93        
+1   100K    LED5MM  LED5MM   R6          LED                                         93        
+1   100uF   LED5MM  LED5MM   C6          LED                                         93        
+2   1K      LED5MM  LED5MM   R3, R4      LED                                         93        
+2   2.2M    LED5MM  LED5MM   R5, R7      LED                                         93        
+2   22pF    LED5MM  LED5MM   C8, C9      LED                                         93        
+1   47pF    LED5MM  LED5MM   C5          LED                                         93        
+1   9V      MA03-1  MA03-1   VCC         PIN HEADER             unknown    unknown   48        
+1   BC548B  BC548B  TO92-EBC Q1          NPN Transistor                              0         
+1   BC557B  BC557B  TO92-EBC Q2          PNP Transistror                             0         
+1   CA3130N CA3130N DIL08    IC1         OP AMP                                      0         
